@@ -2,10 +2,9 @@
 <items>
     <items_info>
       <title>Addon Alejandria</title>
-      <genre>News</genre>
       <description>Addon Alejandria</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+      <fanart></fanart>
       <date>04.01.2013</date>
       <credits>Addon Alejandria</credits>
     </items_info>
